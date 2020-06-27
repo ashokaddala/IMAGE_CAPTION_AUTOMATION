@@ -1,0 +1,7 @@
+https://cs.stanford.edu/people/karpathy/cvpr2015.pdf
+https://arxiv.org/abs/1411.4555
+https://arxiv.org/abs/1703.09137
+https://arxiv.org/abs/1708.02043
+https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+https://www.youtube.com/watch?v=yk6XDFm3J2c
+https://www.appliedaicourse.com/
